@@ -33,9 +33,9 @@ Example add-on configuration:
 log_level: info
 system_packages:
   - ffmpeg
+  - py3-pillow
 python_packages:
   - PyMySQL
-  - Pillow
 ```
 
 **Note**: _This is just an example, don't copy and past it! Create your own!_
